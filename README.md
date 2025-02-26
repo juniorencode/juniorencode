@@ -19,7 +19,6 @@
   <a href="https://platzi.com/p/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/platzi/aaaaaa" height="14" />
   </a>
-  </a>
   <img width="10" />
   <a href="https://github.com/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/github/aaaaaa" height="14" />
