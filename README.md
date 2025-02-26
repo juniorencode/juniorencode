@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Carlos Junior Ramos Vasquez</h1>
-<div align="center">
-  <a href="https://www.facebook.com/juniorencode.dev" target="_blank">
+<!-- <div align="center"> -->
+  <!-- <a href="https://www.facebook.com/juniorencode.dev" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/aaaaaa" height="14" />
   </a>
   <a href="https://x.com/juniorencode/" target="_blank">
@@ -9,17 +9,17 @@
   <a href="https://www.instagram.com/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/aaaaaa" height="14" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/juniorencode/" target="_blank">
+  <a href="https://www.linkedin.com/in/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/aaaaaa" height="14" />
-  </a> -->
+  </a>
   <a href="https://platzi.com/p/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/platzi/aaaaaa" height="14" />
   </a>
   <a href="https://github.com/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/github/aaaaaa" height="14" />
-  </a>
+  </a> -->
   <!-- <img src="https://komarev.com/ghpvc/?username=juniorencode&color=blue&abbreviated=true" /> -->
-</div>
+<!-- </div> -->
 <div>
   <p>
     I am a full stack developer with experience in creating modern web applications. I specialize in frontend development, where I enjoy designing interfaces that are not only functional but also easy to use. I also have the ability to work on the backend, building robust and scalable APIs to provide complete and efficient solutions.
