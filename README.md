@@ -3,23 +3,18 @@
   <a href="https://www.facebook.com/juniorencode.dev" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/aaaaaa" height="14" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/x/aaaaaa" height="14" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/aaaaaa" height="14" />
   </a>
-  &nbsp;&nbsp;
   <!-- <a href="https://www.linkedin.com/in/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/aaaaaa" height="14" />
   </a> -->
-  <!-- &nbsp;&nbsp; -->
   <a href="https://platzi.com/p/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/platzi/aaaaaa" height="14" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/juniorencode/" target="_blank">
     <img src="https://cdn.simpleicons.org/github/aaaaaa" height="14" />
   </a>
