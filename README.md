@@ -40,4 +40,104 @@
       <img src="https://github-profile-trophy.vercel.app/?username=juniorencode&&rank=-?&column=-1&no-frame=true&margin-w=20&margin-h=20&theme=nord&no-bg=true" height="160" />
     </div>
   </div>
+  <h2>🛠 Languages and tools</h2>
+  <div style="display: flex; align-items: center; flex-direction: column; gap: 2rem; margin: 2rem 0;">
+    <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/html-5.svg" height="35" alt="html5 logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/css-3.svg" height="35" alt="css3 logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/javascript.svg" height="35" alt="javascript logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/typescript.svg" height="35" alt="typescript logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/php.svg" height="35" alt="php logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/python.svg" height="35" alt="python logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/c++.svg" height="35" alt="c++ logo" />
+      </div>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/tailwind.svg" height="35" alt="tailwind logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/bootstrap.svg" height="35" alt="bootstrap logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/framer-motion.svg" height="35" alt="framer motion logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/redux.svg" height="35" alt="redux logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/zustand.svg" height="35" alt="zustand logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/socket-io.svg" style="filter: invert(10%);" height="35" alt="socket io logo" />
+      </div>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/react.svg" height="35" alt="html5 logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/angular.svg" height="35" alt="css3 logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/node-js-2.svg" height="35" alt="javascript logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/astro.svg" height="35" alt="typescript logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/next-js.svg" style="filter: invert(90%);" height="35" alt="php logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/laravel.svg" height="35" alt="python logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/electron.svg" height="35" alt="c++ logo" />
+      </div>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/mongodb.svg" height="35" alt="mongodb logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/mysql.svg" height="35" alt="mysql logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/postgresql.svg" height="35" alt="postgre sql logo" />
+      </div>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/github.svg" style="filter: invert(100%);" height="35" alt="github logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/docker.svg" height="35" alt="docker logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/postman.svg" height="35" alt="postman logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/photoshop.svg" height="35" alt="photoshop logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/illustrator.svg" height="35" alt="illustrator logo" />
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.05);">
+        <img src="https://juniorencode.dev/tools/figma.svg" height="35" alt="figma logo" />
+      </div>
+    </div>
+  </div>
 </div>
