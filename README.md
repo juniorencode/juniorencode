@@ -20,4 +20,12 @@
     </a>
     <!-- <img src="https://komarev.com/ghpvc/?username=juniorencode&color=blue&abbreviated=true" /> -->
   </div>
+  <div>
+    <p>
+      I am a full stack developer with experience in creating modern web applications. I specialize in frontend development, where I enjoy designing interfaces that are not only functional but also easy to use. I also have the ability to work on the backend, building robust and scalable APIs to provide complete and efficient solutions.
+    </p>
+    <p>
+      My approach always seeks elegance in code, prioritizing quality and maintainability. I am motivated by tackling technical challenges and finding creative solutions that result in innovative products. I am always learning new technologies and improving my skills to add value to every project I am involved in.
+    </p>
+  </div>
 </div>
